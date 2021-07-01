@@ -29,3 +29,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## About webpack
+
+Webpack is an open source JavaScript module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset. Webpack takes modules with dependencies and generates static assets representing those modules. It’s a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, even images if the corresponding plugins are included.
+
+Use gulp to automate development tasks(other task runners: grunt)
+Gulp is a task runner that allows you to define a series repeatable tasks that can be run any time you need. You can automate boring things like the minification and uglification of your javascript or whatever else you do in order to make your code production ready
+
